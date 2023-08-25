@@ -15,12 +15,12 @@ different promotions, pricing options, and product placement that intrigue the t
 cost-effective way. Our problem statement area has high potential and scope to tackle future requirements in
 segmentation which can be a useful tool to identify unsatisfied customer needs in future.
 
-##Target Users:
+## Target Users:
 Sales manager, Sales head - To see the final cluster plots and clustered data
 Engineering/Scrum managers – To see the EDA, verification of hyperparameters, results etc.
 Below are the options in the side bar of the dashboard:
 
-##Raw Data:
+## Raw Data:
 • To show peak of our dataset (sample number of rows of the data).
 Exploratory data Analysis (EDA):
 • Exploratory data analysis will help us get insights about the statistical measures and patterns in our dataset [2].
@@ -30,7 +30,7 @@ values/anomalies of each column.
 e.g., To show the counts of professions of the customers or counts of the gender in bar plot identify if there is any pattern.
 Box plot of work experience column which shows the quartile ranges and outliers.
 
-##Cluster determination:
+## Cluster determination:
 • Here we will determine the ideal number of clusters suitable to cluster our dataset into.
 • For example, for K-means we will show the elbow plot for determination of K in this section.
 Cluster Analysis and plots:
@@ -38,7 +38,7 @@ Cluster Analysis and plots:
 • E.g. For K means we would show the cluster plots with focus on any two features Work experience vs age, or gender
 vs Profession.
 
-##Final Clustered Data:
+## Final Clustered Data:
 • Here we would show the final data with an additional column indicating the cluster.
 
 ![image](https://github.com/akshaykp248/Customer_Segmentation/assets/26442564/32e3e392-bb43-4174-a112-555f80a1c344)
